@@ -1,4 +1,4 @@
-# Claim Epic Freebies
+# Claim Epic Freebies (STOPPED WORKING)
 
 EpicGames Weekly Giveaways Auto Claimer
 
